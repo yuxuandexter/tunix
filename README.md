@@ -94,14 +94,14 @@ our
 
 ## Collaborations and Partnership
 
-[GRL](https://github.com/lmgame-org/GRL/blob/tunix_integration_dev/README.md)
+[GRL](https://github.com/lmgame-org/GRL/blob/main/README.md)
 (Game Reinforcement Learning), developed by
 [Hao AI Lab](https://hao-ai-lab.github.io/) from UCSD, is an open-source
 framework for post-training large language models through multi-turn RL on
 challenging games. In collaboration with Tunix, GRL integrates seamless TPU
 support—letting users quickly run scalable, reproducible RL experiments (like
 PPO rollouts on Qwen2.5-0.5B-Instruct) on TPU v4 meshes with
-[minimal setup](https://github.com/lmgame-org/GRL/blob/tunix_integration_dev/README.md#5-launch-the-quick-test-defaults-to-qwen2505b-supports-4-tpu-v4-with-mesh-22).
+[minimal setup](https://github.com/lmgame-org/GRL/blob/main/README.md#tunix-quick-test).
 This partnership empowers the community to push LLM capabilities further,
 combining Tunix’s optimized TPU runtime with GRL’s flexible game RL pipeline for
 cutting-edge research and easy reproducibility.
